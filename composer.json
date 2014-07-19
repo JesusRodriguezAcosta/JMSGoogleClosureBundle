@@ -1,5 +1,5 @@
 {
-    "name": "jesus-rodriguez-acosta/google-closure-bundle",
+    "name": "jra/google-closure-bundle",
     "description": "Eases development with the Google Closure Tools in Symfony2",
     "homepage": "http://jmsyst.com/bundles/JMSGoogleClosureBundle",
     "type": "symfony-bundle",
