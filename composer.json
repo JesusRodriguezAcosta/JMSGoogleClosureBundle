@@ -17,5 +17,9 @@
     "autoload": {
         "psr-0": { "JMS\\GoogleClosureBundle": "" }
     },
-    "target-dir": "JMS/GoogleClosureBundle"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
 }
